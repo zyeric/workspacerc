@@ -1,2 +1,2 @@
-echo "source .mybashrc" >> .bashrc
+echo "source ~/.mybashrc" >> .bashrc
 echo "\$include .myinputrc" >> .inputrc
